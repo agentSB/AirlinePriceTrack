@@ -1,0 +1,37 @@
+{"air_route": "can-lax", "date": "2018-10-01", "low_price": "2987"}
+{"air_route": "can-lax", "date": "2018-10-02", "low_price": "2987", "detail": [{"transfer_count": 1, "airline_name": ["南方航空"], "flight_No": ["CZ327"], "plane_type": ["空客380(大)"], "flight_time": ["21:35", "19:40"], "airports": ["CAN 白云国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["13h5m"], "total_time": "13h5m", "seat_type": "经济舱", "price": "5210"}, {"transfer_count": 1, "airline_name": ["达美航空"], "flight_No": ["DL7830"], "plane_type": ["空客380(大)"], "flight_time": ["21:35", "19:40"], "airports": ["CAN 白云国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["13h5m"], "total_time": "13h5m", "seat_type": "经济舱", "price": "6752"}, 
+
+{"transfer_count": 1, "airline_name": ["厦门航空"], "flight_No": ["MF9277"], "plane_type": ["空客380(大)"], "flight_time": ["21:35", "19:40"], "airports": ["CAN 白云国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["13h5m"], "total_time": "13h5m", "seat_type": "经济舱", "price": "10401"}, 
+
+{"transfer_count": 2, "airline_name": ["厦门航空", "厦门航空"], "flight_No": ["MF8392", "MF829"], "plane_type": ["波音737(中)", "波音787(大)"], "flight_time": ["17:55", "19:20", "21:05", "19:00"], "airports": ["CAN 白云国际机场", "XMN 高崎国际机场", "XMN 高崎国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["1h25m", "12h55m"], "total_time": "16h5m", "seat_type": "经济舱", "price": "3626"}, 
+
+{"transfer_count": 2, "airline_name": ["大韩航空", "大韩航空"], "flight_No": ["KE866", "KE011"], "plane_type": ["空客330(大)", "空客380(大)"], "flight_time": ["12:40", "17:15", "19:40", "14:50"], "airports": ["CAN 白云国际机场", "ICN 仁川国际机场", "ICN 仁川国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["3h35m", "11h10m"], "total_time": "17h10m", "seat_type": "经济舱", "price": "3917"}, {"transfer_count": 2, "airline_name": ["南方航空", "美国航空"], "flight_No": ["CZ379", "AA182"], "plane_type": ["空客320(中)", "波音787(大)"], "flight_time": ["14:00", "16:25", "18:25", "15:25"], "airports": ["CAN 白云国际机场", "PVG 浦东国际机场", "PVG 浦东国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["2h25m", "12h"], "total_time": "16h25m", "seat_type": "经济舱", "price": "4440"}, {"transfer_count": 2, "airline_name": ["中国国航", "美国航空"], "flight_No": ["CA1330", "AA180"], "plane_type": ["波音787(大)", "波音787(大)"], "flight_time": ["10:30", "13:40", "17:20", "14:50"], "airports": ["CAN 白云国际机场", "PEK 首都国际机场", "PEK 首都国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["3h10m", "12h30m"], "total_time": "19h20m", "seat_type": "经济舱", "price": "4440"}, {"transfer_count": 2, "airline_name": ["上海航空", "东方航空"], "flight_No": ["FM9302", "MU583"], "plane_type": ["波音737(中)", "波音777(大)"], "flight_time": ["07:30", "09:50", "13:00", "10:05"], "airports": ["CAN 白云国际机场", "PVG 浦东国际机场", "PVG 浦东国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["2h20m", "12h5m"], "total_time": "17h35m", "seat_type": "经济舱", "price": "5087"}, {"transfer_count": 2, "airline_name": ["四川航空", "四川航空"], "flight_No": ["3U8422", "3U8631"], "plane_type": ["空客320(中)", "空客330(大)"], "flight_time": ["13:10", "15:20", "23:55", "20:30"], "airports": ["CAN 白云国际机场", "HGH 萧山国际机场", "HGH 萧山国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["2h10m", "11h35m"], "total_time": "22h20m", "seat_type": "经济舱", "price": "4166"}, {"transfer_count": 2, "airline_name": ["全日空航空", "全日空航空"], "flight_No": ["NH924", "NH106"], "plane_type": ["波音767(大)", "波音777(大)"], "flight_time": ["14:15", "19:45", "22:55", "16:45"], "airports": ["CAN 白云国际机场", "HND 羽田机场", "HND 羽田机场", "LAX 洛杉矶国际机场"], "section_total_time": ["4h30m", "9h50m"], "total_time": "17h30m", "seat_type": "经济舱", "price": "5375"}, {"transfer_count": 2, "airline_name": ["海南航空", "海南航空"], "flight_No": ["HU7039", "HU467"], "plane_type": ["波音737(中)", "波音787(大)"], "flight_time": ["16:00", "18:10", "22:00", "20:00"], "airports": ["CAN 白云国际机场", "CKG 江北国际机场", "CKG 江北国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["2h10m", "13h"], "total_time": "19h", "seat_type": "经济舱", "price": "5209"}, {"transfer_count": 2, "airline_name": ["韩亚航空", "韩亚航空"], "flight_No": ["OZ356", "OZ202"], "plane_type": ["空客321(中)", "空客380(大)"], "flight_time": ["01:15", "05:45", "14:40", "09:50"], "airports": ["CAN 白云国际机场", "ICN 仁川国际机场", "ICN 仁川国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["3h30m", "11h10m"], "total_time": "23h35m", "seat_type": "经济舱", "price": "4322"}, {"transfer_count": 2, "airline_name": ["南方航空", "美国航空"], "flight_No": ["CZ657", "AA6012"], "plane_type": ["波音777(大)", "巴航工175(小)"], "flight_time": ["22:15", "19:40", "22:10", "23:44"], "airports": ["CAN 白云国际机场", "SFO 旧金山国际机场", "SFO 旧金山国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["12h25m", "1h34m"], "total_time": "16h29m", "seat_type": "经济舱", "price": "5919"}, {"transfer_count": 2, "airline_name": ["国泰港龙航空", "国泰航空"], "flight_No": ["KA781", "CX884"], "plane_type": ["空客330(大)", "波音777(大)"], "flight_time": ["09:55", "11:25", "12:55", "10:50"], "airports": ["CAN 白云国际机场", "HKG 香港国际机场", "HKG 香港国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["1h30m", "12h55m"], "total_time": "15h55m", "seat_type": "经济舱", "price": "6905"}, {"transfer_count": 2, "airline_name": ["中国国航", "中国国航"], "flight_No": ["CA1316", "CA983"], "plane_type": ["波音747(大)", "波音777(大)"], "flight_time": ["15:30", "18:40", "21:00", "18:00"], "airports": ["CAN 白云国际机场", "PEK 首都国际机场", "PEK 首都国际机场", "LAX 洛杉矶国际机场"], "section_total_time": ["3h10m", "12h"], "total_time": "17h30m", "seat_type": "经济舱", "price": "6604"}]}
+{"air_route": "can-lax", "date": "2018-10-03", "low_price": "1802"}
+{"air_route": "can-lax", "date": "2018-10-04", "low_price": "2155"}
+{"air_route": "can-lax", "date": "2018-10-05", "low_price": "1802"}
+{"air_route": "can-lax", "date": "2018-10-06", "low_price": "1802"}
+{"air_route": "can-lax", "date": "2018-10-07", "low_price": "1803"}
+{"air_route": "can-lax", "date": "2018-10-08", "low_price": "2155"}
+{"air_route": "can-lax", "date": "2018-10-09", "low_price": "1802"}
+{"air_route": "can-lax", "date": "2018-10-10", "low_price": "1802"}
+{"air_route": "can-lax", "date": "2018-10-11", "low_price": "2210"}
+{"air_route": "can-lax", "date": "2018-10-12", "low_price": "11870"}
+{"air_route": "can-lax", "date": "2018-10-13", "low_price": "1802"}
+{"air_route": "can-lax", "date": "2018-10-14", "low_price": "1802"}
+{"air_route": "can-lax", "date": "2018-10-15", "low_price": "12145"}
+{"air_route": "can-lax", "date": "2018-10-16", "low_price": "1802"}
+{"air_route": "can-lax", "date": "2018-10-17", "low_price": "1802"}
+{"air_route": "can-lax", "date": "2018-10-18", "low_price": "2210"}
+{"air_route": "can-lax", "date": "2018-10-19", "low_price": "2166"}
+{"air_route": "can-lax", "date": "2018-10-20", "low_price": "1802"}
+{"air_route": "can-lax", "date": "2018-10-21", "low_price": "1803"}
+{"air_route": "can-lax", "date": "2018-10-22", "low_price": "2210"}
+{"air_route": "can-lax", "date": "2018-10-23", "low_price": "2155"}
+{"air_route": "can-lax", "date": "2018-10-24", "low_price": "1803"}
+{"air_route": "can-lax", "date": "2018-10-25", "low_price": "2210"}
+{"air_route": "can-lax", "date": "2018-10-26", "low_price": "1803"}
+{"air_route": "can-lax", "date": "2018-10-27", "low_price": "1803"}
+{"air_route": "can-lax", "date": "2018-10-28", "low_price": "1802"}
+{"air_route": "can-lax", "date": "2018-10-29", "low_price": "1802"}
+{"air_route": "can-lax", "date": "2018-10-30", "low_price": "2155"}
+{"air_route": "can-lax", "date": "2018-10-31", "low_price": "1802"}
